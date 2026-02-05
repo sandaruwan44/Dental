@@ -141,7 +141,7 @@ a{ text-decoration:none; }
   background:
     radial-gradient(1200px 600px at 20% 10%, rgba(62,193,201,0.22), transparent 55%),
     linear-gradient(90deg, rgba(255,255,255,0.93) 0%, rgba(255,255,255,0.72) 45%, rgba(255,255,255,0.35) 100%),
-    url("./images/mainvisual.jpg");
+    url("../images/mainvisual.jpg");
   background-size:cover;
   background-position:center;
   transform: scale(1.03);
@@ -285,7 +285,7 @@ a{ text-decoration:none; }
 /* Services bg */
 .section.bg-room{
   position:relative;
-  background: url("./images/wall.jpg") center / cover no-repeat;
+  background: url("../images/wall.jpg") center / cover no-repeat;
 }
 
 .section.bg-room::before{
